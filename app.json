@@ -52,6 +52,11 @@
         "value": "",
         "required": false
       },
+         "BOT_USERNAME": {
+         "description": "your bot username",
+         "required": true,
+         "value": ""
+        },
         "START_IMG_URL": {
          "description": "your favourate image",
          "required": true,
