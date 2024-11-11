@@ -7,8 +7,7 @@
 ### 🚩🚩Jᴀʏ Sʜʀᴇᴇ Kʀɪsʜɴᴀ 🚩🚩
 <h1 align="center"
 
-  
-#🚩 𝗣𝗢𝗪𝗘𝗥𝗘𝗗 𝗕𝗬 𝗛𝗨𝗡𝗧𝗘𝗥 𝗫𝗗 🚩
+ 
 
 
 <img src="https://files.catbox.moe/lw8ex5.jpg">
