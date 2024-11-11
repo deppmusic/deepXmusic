@@ -15,7 +15,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mdhakeeb498&repo=deepXmusic &theme=flag-india)
+<img src="https://files.catbox.moe/gzcgjy.jpg" width="400"></a></p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 [![GIF](https://github.com/TEAMPURVI/SONALI_MUSIC/blob/main/TEAMPURVI.gif)](https://github.com/TEAMPURVI)
    [![ALPHA](https://github-stats-alpha.vercel.app/api?username=TEAMPURVI "RAUSHAN")](https://github-stats-alpha.vercel.app/api?username=TEAMPURVI "RAUSHAN")
