@@ -6,8 +6,8 @@
  
 ### 🚩🚩Jᴀʏ Sʜʀᴇᴇ Kʀɪsʜɴᴀ 🚩🚩
 <h1 align="center"
+
   
-<img src="68747470733a2f2f66696c65732e636174626f782e6d6f652f3075697231762e6a7067">
 <img src="https://readme-typing-svg.herokuapp.com?color=FF0085&width=620&lines=🍁+🚩+𝗣𝗢𝗪𝗘𝗥𝗘𝗗+𝗕𝗬+𝗛𝗨𝗡𝗧𝗘𝗥 𝗫𝗗+🚩+🍁"></b></h3>
 <img src="https://files.catbox.moe/lw8ex5.jpg">
 <h1 align="center"><b>тҽαɱ ɾιყα</b></h1>
