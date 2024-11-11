@@ -8,7 +8,9 @@
 <h1 align="center"
 
   
-<img src="https://readme-typing-svg.herokuapp.com?color=FF0085&width=620&lines=🍁+🚩+𝗣𝗢𝗪𝗘𝗥𝗘𝗗+𝗕𝗬+𝗛𝗨𝗡𝗧𝗘𝗥 𝗫𝗗+🚩+🍁"></b></h3>
+#🚩 𝗣𝗢𝗪𝗘𝗥𝗘𝗗 𝗕𝗬 𝗛𝗨𝗡𝗧𝗘𝗥 𝗫𝗗 🚩
+
+
 <img src="https://files.catbox.moe/lw8ex5.jpg">
 <h1 align="center"><b>тҽαɱ ɾιყα</b></h1>
 <p align="center"><a href="https://ll_hunter_lll"><img src="https://files.catbox.moe/yvwrge.jpg" width="400"></a></p>
