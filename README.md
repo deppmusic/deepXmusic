@@ -16,13 +16,7 @@
 
 
 <img src="https://files.catbox.moe/18w5tu.jpg" width="400"></a></p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-[![GIF](https://github.com/TEAMPURVI/SONALI_MUSIC/blob/main/TEAMPURVI.gif)](https://github.com/TEAMPURVI)
-   [![ALPHA](https://github-stats-alpha.vercel.app/api?username=TEAMPURVI "RAUSHAN")](https://github-stats-alpha.vercel.app/api?username=TEAMPURVI "RAUSHAN")
-
-
-GO TO [RELOAD.PY](https://github.com/TEAMPURVI/SONALI_MUSIC/blob/main/SONALI/plugins/tools/reload.py) THEN CHANGE MY ID NUMBER 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 </p>
 ʀᴀᴜsʜᴀɴ
@@ -40,7 +34,7 @@ GO TO [RELOAD.PY](https://github.com/TEAMPURVI/SONALI_MUSIC/blob/main/SONALI/plu
 
 <p><img width="500" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TEAMP BA&show_icons=true&locale=en&layout=compact" alt="тҽαɱ ɾιყα ɱυʂιƈ" /></p>
 
-[![Contributors](https://contrib.rocks/image?repo=TEAMPURVI/SONALI_MUSIC)](https://github.com/TEAMPURVI/SONALI_MUSIC/graphs/contributors)
+[![Contributors](https://contrib.rocks/image?repo=TEAMPURVI/SONALI_MUSIC)](https://github.com/mdhakeeb498/deepXmusic)/graphs/contributors)
 
 ### Contact :
 <a href="https://t.me/ll_hunter_lll"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
